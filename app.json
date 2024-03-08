@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "attendees",
+    "slug": "attendees",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
